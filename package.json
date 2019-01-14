@@ -10,6 +10,11 @@
   "author": "featherplain",
   "license": "MIT",
   "dependencies": {
+    "feathericon": "^1.0.2",
     "nuxt": "^2.3.4"
+  },
+  "devDependencies": {
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0"
   }
 }
